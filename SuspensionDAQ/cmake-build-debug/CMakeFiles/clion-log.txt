@@ -1,0 +1,4 @@
+C:\Users\owner\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\owner\CLionProjects\Baja\SuspensionDAQ
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/owner/CLionProjects/Baja/SuspensionDAQ/cmake-build-debug
